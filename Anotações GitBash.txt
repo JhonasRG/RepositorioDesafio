@@ -1,0 +1,9 @@
+Dir – Lista os diretórios contidos nas pastas onde estamos situados 
+
+Ls – Lista os diretórios contidos na pasta onde estamos situados (mas esse é no linux) 
+
+cd – change directory (igual pra todos), permite que você mude de diretório 
+
+cd .. - Retrocede 1 pasta
+
+cls – Limpa tela
